@@ -2,4 +2,4 @@ A clean, responsive, single‑page portfolio built with HTML, CSS, and JavaScrip
 
 ## 🌐 Live Demo
 
-> Coming Soon or [host your own](#-deployment)
+> [link](https://klstxii.github.io/simple-portfolio-template/)
